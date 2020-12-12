@@ -4,4 +4,36 @@
     font-weight: bold;
     color: khaki;
     text-align: center;
+    background-image: url(pattern.jpeg);
+}
+
+.sectionHeads {
+    font-family: Helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumaquamarine;
+}
+
+.description {
+    font-family: Helvetica;
+}
+
+.price {
+    font-family: Helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.bgRed {
+    background-color: lightcoral;
+}
+
+.bgBlue {
+    background-color: skyblue;
+}
+
+.head {
+    font-family: Helvetica;
+    font-weight: bold;
 }
